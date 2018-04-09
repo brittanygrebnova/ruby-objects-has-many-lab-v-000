@@ -11,6 +11,7 @@ class Post
     self.author.name
     if self.author == false
       nil
+    end
   end
   
 end
